@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppClassSemana4_v1</string>
+    <string name="vaTitle">REGISTRAR PERSONA</string>
+    <string name="valNombre">Ingrese su nombre</string>
+    <string name="valApellido">Ingrese su apellido</string>
+    <string name="valGenero">Seleccione su genero:</string>
+    <string name="valMasculino">Masculino</string>
+    <string name="valFemenino">Femenino</string>
+    <string name="valDeporte">Deporte</string>
+    <string name="valDibujo">Dibujo</string>
+    <string name="valOtro">Otros</string>
+    <string name="valEstadoCivil">Seleccione su estado civil:</string>
+    <string name="valPreferencias">Seleccione unas preferencias:</string>
+    <string name="valNotificar">¿Notificar?</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnListar">Listar</string>
+</resources>
